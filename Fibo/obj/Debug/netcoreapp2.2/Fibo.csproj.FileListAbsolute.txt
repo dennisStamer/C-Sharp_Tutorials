@@ -1,0 +1,11 @@
+C:\Users\dstamer\source\repos\Fibo\Fibo\bin\Debug\netcoreapp2.2\Fibo.deps.json
+C:\Users\dstamer\source\repos\Fibo\Fibo\bin\Debug\netcoreapp2.2\Fibo.runtimeconfig.json
+C:\Users\dstamer\source\repos\Fibo\Fibo\bin\Debug\netcoreapp2.2\Fibo.runtimeconfig.dev.json
+C:\Users\dstamer\source\repos\Fibo\Fibo\bin\Debug\netcoreapp2.2\Fibo.dll
+C:\Users\dstamer\source\repos\Fibo\Fibo\bin\Debug\netcoreapp2.2\Fibo.pdb
+C:\Users\dstamer\source\repos\Fibo\Fibo\obj\Debug\netcoreapp2.2\Fibo.csprojAssemblyReference.cache
+C:\Users\dstamer\source\repos\Fibo\Fibo\obj\Debug\netcoreapp2.2\Fibo.csproj.CoreCompileInputs.cache
+C:\Users\dstamer\source\repos\Fibo\Fibo\obj\Debug\netcoreapp2.2\Fibo.AssemblyInfoInputs.cache
+C:\Users\dstamer\source\repos\Fibo\Fibo\obj\Debug\netcoreapp2.2\Fibo.AssemblyInfo.cs
+C:\Users\dstamer\source\repos\Fibo\Fibo\obj\Debug\netcoreapp2.2\Fibo.dll
+C:\Users\dstamer\source\repos\Fibo\Fibo\obj\Debug\netcoreapp2.2\Fibo.pdb

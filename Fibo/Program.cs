@@ -7,7 +7,7 @@ namespace Fibo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Fibofolge von 5: " + Fiborecursive(7));
+            Console.WriteLine("Fibofolge von 7: " + Fiborecursive(7));
             Console.ReadKey(true);
         }
 

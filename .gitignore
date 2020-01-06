@@ -17,6 +17,7 @@ TestResults
 *.sln.docstates
 
 # Build results
+*/**/bin/Debug
 [Dd]ebug/
 [Rr]elease/
 x64/

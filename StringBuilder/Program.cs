@@ -13,6 +13,7 @@ namespace StringBuilderTest
 
         private static void ShowOutput()
         {
+            //Calculate Output
             string output = "*";
 
             var sb = new System.Text.StringBuilder();
